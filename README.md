@@ -1,2 +1,2 @@
 # beadando
-Féléves feladat mirci elektrotechre
+Féléves feladat mirco elektrotechre
